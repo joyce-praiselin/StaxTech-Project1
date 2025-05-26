@@ -22,7 +22,7 @@ Project Status
 ✅ Completed – Assigned project by StaxTech
 
 Author
-Joyce Praiselin Prabhakaran | LinkedIn | GitHub
+Joyce Praiselin Prabhakaran | [LinkedIn](https://www.linkedin.com/in/joyce-praiselin-prabhakaran-744514285) | [GitHub](https://github.com/joyce-praiselin)
 
 Acknowledgement
 🙏 Thanks to StaxTech for the project opportunity and support during development.
